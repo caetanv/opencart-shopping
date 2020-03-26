@@ -93,3 +93,6 @@
 2020-03-19 3:17:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\WebSites\opencart\upload\system\library\db\mysqli.php on line 10
 2020-03-19 3:17:09 - PHP Notice:  Undefined variable: mysql in C:\WebSites\opencart\upload\install\controller\install\step_3.php on line 280
 2020-03-19 3:17:09 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\WebSites\opencart\upload\install\controller\install\step_3.php on line 280
+2020-03-26 7:45:08 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\WebSites\opencart\upload\system\library\mail\mail.php on line 77
+2020-03-26 7:45:10 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\WebSites\opencart\upload\system\library\mail\mail.php on line 77
+2020-03-26 8:46:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\WebSites\opencart\upload\system\library\mail\mail.php on line 77
