@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # OpenCart
 
 ## Overview
@@ -79,4 +79,4 @@ Please read the installation instructions included in the repository or download
 =======
 # opencart-shopping
 It's an ecommerce project with opencart opensource ready for use.
->>>>>>> 983943fc5a6749c8aede0f985892922d1a2200b7
+
